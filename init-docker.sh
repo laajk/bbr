@@ -16,5 +16,5 @@ wget -O /usr/bin/docker-compose https://github.com/docker/compose/releases/downl
 chmod +x /usr/bin/docker-compose
 echo vim
 echo bbr
-echo ssh port
-echo curl https://get.acme.sh | sh -s email=my@example.com
+echo "ssh port"
+echo "curl https://get.acme.sh | sh -s email=my@example.com"
