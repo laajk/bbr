@@ -20,6 +20,7 @@ var rules = [
     "||angela-merkel.de",
     "||civitai.com",
     "||nodeseek.com",
+    "||hostloc.com",
     "||discord.com",
     "||discord.gg",
     "||vimeocdn.com",
