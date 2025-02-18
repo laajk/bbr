@@ -57,6 +57,7 @@ var rules = [
     "||githubusercontent.com",
     "||apartments.com",
     "||pic.knssmhx.cn",
+    "||jsdelivr.net",
     "||arena.taipei",
     "||v2ex.com",
     "||cloudfront.net",
