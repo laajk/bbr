@@ -52,6 +52,7 @@ var rules = [
     "||google-analytics.com",
     "||ai.com",
     "||x.ai",
+    "||x.com",
     "||angola.org",
     "||g.api.mega.co.nz",
     "||apartmentratings.com",
