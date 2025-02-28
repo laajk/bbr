@@ -14,7 +14,7 @@ sudo apt-get update
 apt-get install docker-ce docker-ce-cli containerd.io -y
 wget -O /usr/bin/docker-compose https://github.com/docker/compose/releases/download/v2.32.1/docker-compose-linux-x86_64
 chmod +x /usr/bin/docker-compose
-echo vim
+echo "vim set paste"
 echo bbr
 echo "ssh port"
 echo "curl https://get.acme.sh | sh -s email=my@example.com"
