@@ -38,6 +38,7 @@ var rules = [
     "||meta.ai",
     "||jasper.ai",
     "||openart.ai",
+    "||huggingface.co",
     "||perplexity.ai",
     "||clipdrop.co",
     "||sora.com",
