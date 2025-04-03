@@ -35,6 +35,7 @@ var rules = [
     "||cdn.usefathom.com",
     "||claudeusercontent.com",
     "||dify.ai",
+    "||perplexity.ai",
     "||meta.ai",
     "||jasper.ai",
     "||openart.ai",
