@@ -24,6 +24,7 @@ var rules = [
     "||hostloc.com",
     "||discord.com",
     "||discord.gg",
+    "||keystone.guru",
     "||vimeocdn.com",
     "||hcaptcha.com",
     "||chatgpt.com",
