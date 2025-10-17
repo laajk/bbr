@@ -53,6 +53,7 @@ var rules = [
     "||f7tk.com",
     "||doubleclick.net",
     "||z-library.sk",
+    "||octocaptcha.com",
     "||google-analytics.com",
     "||ai.com",
     "||x.ai",
