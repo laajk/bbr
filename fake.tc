@@ -88,6 +88,8 @@ var rules = [
     "||bash-hackers.org",
     "||beeg.com",
     "||111666.best",
+    "||steampowered.com",
+    "||linux.do",
     "||global.bing.com",
     "||bloombergview.com",
     "||booktopia.com.au",
