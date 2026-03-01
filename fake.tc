@@ -32,6 +32,7 @@ var rules = [
     "||hysteria.network",
     "||anthropic.com",
     "||claude.ai",
+    "||claude.com",
     "||grok.com",
     "||cdn.usefathom.com",
     "||claudeusercontent.com",
