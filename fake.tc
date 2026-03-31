@@ -29,6 +29,8 @@ var rules = [
     "||hcaptcha.com",
     "||chatgpt.com",
     "||openai.com",
+    "||grokipedia.com",
+    "||x.ai",
     "||hysteria.network",
     "||anthropic.com",
     "||anthropic.ai",
