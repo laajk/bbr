@@ -60,6 +60,7 @@ var rules = [
     "||z-library.sk",
     "||octocaptcha.com",
     "||google-analytics.com",
+    "||usercontent.goog",
     "||ai.com",
     "||x.ai",
     "||x.com",
